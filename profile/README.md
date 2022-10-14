@@ -5,3 +5,5 @@ Codat solves the connectivity challenge for developers building the next generat
 For actionable insights, enhanced financial metrics, and automatic reconciliation, try Assess and Sync for Commerce, our specialist products for underwriting and accounting automation.
 
 Build to our Accounting API, Open Banking API, and Commerce API to pull, push, transform and visualize data from over 35 major accounting, open banking, payments & eCommerce platforms, integrated with a single standardized data model.
+
+[www.codat.io](https://www.codat.io/) | [Documentation](https://docs.codat.io/docs) | [Portal](https://app.codat.io/)
