@@ -6,14 +6,26 @@ Explore our open-source tools, SDKs, and documentation to start integrating with
 
 # What is Codat?
 
-Codat solves the connectivity challenge for developers building the next generation of products for small businesses. We're experts in how your application interacts with the other software your customers use, so you can focus on what makes you superior.
+Codat is an advisory intelligence solution purpose-built for modern commercial banking. Through rich, specialized data, forward-looking insights, and integrated workflows, Codat empowers banking teams to deepen their relationships, grow their revenue, and simplify their day-to-day work. 
 
-Codat builds infrastructure that helps financial institutions and fintechs integrate, access, and leverage business data. Our platform enables seamless, secure connections with accounting, banking, and eCommerce systems, empowering developers to unlock real-time financial insights, automate processes, and enhance decision-making. We focus on providing solutions that improve financial data workflows for small businesses and create more efficient, personalized services for their customers.
+Founded in 2017 and backed by JPMorgan, PayPal, Amex, Plaid, and Shopify, Codat has successfully powered over 350,000 connections to business customers’ financial systems — and is trusted by industry leaders to turn scattered information into actionable, strategic advantages in real time, every time.
 
 ---
 
 # What we offer
 
-- *Spend Insights* enables banks and fintechs to access detailed accounts payable data from their clients' ERP or accounting systems. 
-- Our *Accounting Automation* solutions enable financial institutions and fintechs to provide their SMB customers with efficient, accurate, and scalable accounting processes.
-- We enable business lending with our *Lending API* for digital lenders, neobanks, and corporate card providers seeking to enhance their underwriting processes with real-time, standardized financial data. 
+## *[Commercial Card Sales](https://codat.io/products/commercial-card-sales/)*
+
+Sell more card programs with on-demand vendor files and spend insights. No more generic pitches based on incomplete information.  Codat gives you instant access to comprehensive spend insights – revealing precise cardable opportunities, supplier acceptance patterns, and personalized ROI projections that land deals faster.
+
+## *[Treasury Sales](https://codat.io/products/treasury-sales/)*
+
+Go from basic conversations to valuable consultations. Stop waiting on clients to tell you what they need. Codat allows them to share live financial data that uncovers cash management gaps, working capital inefficiencies, and deposits sitting at other banks – so you can lead with solutions instead of generic product pitches.
+
+## *[Spend Insights](https://codat.io/products/spend-insights/)* 
+
+Drive commercial card revenue with actionable client data. With Codat, you can easily access clients’ ERP data with on-demand spend visibility and comprehensive supplier insights that help you win more accounts and convert spend to card faster.
+
+## *[Working Capital Insights](https://codat.io/products/working-capital-insights/)*
+
+Understand your clients’ capital requirements before they do. Codat automatically collects and analyzes financial statements, receivables, payables, debt, and cash flow data from your clients’ ERP systems – delivering the complete financial picture you need to identify growth potential, build proposals, and close deals.
